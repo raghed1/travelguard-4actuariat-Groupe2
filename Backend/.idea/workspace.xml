@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1170b227-0fd7-4e17-a5f6-b1cdb0c169e6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/microservices/voyage/src/main/java/com/esprit/msvoyage/controller/DestinationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservices/voyage/src/main/java/com/esprit/msvoyage/entity/Destination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservices/voyage/src/main/java/com/esprit/msvoyage/repository/DestinationRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservices/voyage/src/main/java/com/esprit/msvoyage/service/DestinationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservices/voyage/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Discovery/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Discovery/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/ms-voyage/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/voyage/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/ms-voyage/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/voyage/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/ms-voyage/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/voyage/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/ms-voyage/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/voyage/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/ms-voyage/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/voyage/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/ms-voyage/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/voyage/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/ms-voyage/src/main/java/com/esprit/msvoyage/MsVoyageApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/voyage/src/main/java/com/esprit/msvoyage/MsVoyageApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/ms-voyage/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/ms-voyage/src/test/java/com/esprit/msvoyage/MsVoyageApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/voyage/src/test/java/com/esprit/msvoyage/MsVoyageApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;azizos549&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/raghed1/Jobboard_groupe2_4Actuariat.git&quot;,
+    &quot;accountId&quot;: &quot;54d0cb9a-488b-4553-8a41-49d575078dfd&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000008556356919" />
+      <entry key="S5" value="1.003740378542959" />
+      <entry key="S10" value="1.0611586342470063" />
+      <entry key="S30" value="1.3939906598811167" />
+      <entry key="S60" value="1.6277059145366282" />
+      <entry key="M2" value="1.8022862469630025" />
+      <entry key="M5" value="2.4810112675183253" />
+      <entry key="M10" value="4.497214519571164" />
+      <entry key="M15" value="6.513707055330601" />
+      <entry key="M30" value="11.054007043615545" />
+      <entry key="H1" value="15.697233133139518" />
+      <entry key="H2" value="19.21843265908483" />
+      <entry key="H4" value="21.42205598940655" />
+      <entry key="D1" value="23.541330177691293" />
+      <entry key="W1" value="23.93372189853144" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="4.5360292660322784E-147" />
+      <entry key="S5" value="2.901819128264632E-59" />
+      <entry key="S10" value="5.386853560534788E-30" />
+      <entry key="S30" value="1.7529857666616423E-10" />
+      <entry key="S60" value="1.324003699927076E-5" />
+      <entry key="M2" value="0.0036391681343701226" />
+      <entry key="M5" value="0.11028014176738543" />
+      <entry key="M10" value="0.4201645290215071" />
+      <entry key="M15" value="0.7351236952769282" />
+      <entry key="M30" value="1.4118480155925128" />
+      <entry key="H1" value="2.0327294705929733" />
+      <entry key="H2" value="2.4620670330329437" />
+      <entry key="H4" value="2.715766375937428" />
+      <entry key="D1" value="2.9503457564567066" />
+      <entry key="W1" value="2.992848412641174" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9265880618903709" />
+      <entry key="MS500" value="0.9848664428955506" />
+      <entry key="S2" value="0.9961954574263282" />
+      <entry key="S5" value="1.0015156335291988" />
+      <entry key="S10" value="1.0543685390264192" />
+      <entry key="S30" value="1.3803421501241735" />
+      <entry key="S60" value="1.616828991206857" />
+      <entry key="M2" value="1.7988739962427729" />
+      <entry key="M5" value="2.58595016834837" />
+      <entry key="M10" value="4.91133279339963" />
+      <entry key="M15" value="7.242528731295864" />
+      <entry key="M30" value="12.4602960344231" />
+      <entry key="H1" value="17.72608467644057" />
+      <entry key="H2" value="21.678180459220588" />
+      <entry key="H4" value="24.13655011798247" />
+      <entry key="D1" value="26.491446495396396" />
+      <entry key="W1" value="26.926537083233065" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3MRDjSjjjLnjo5QiC8Nfh7SVFKI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.MsVoyageApplication 3.executor": "Run",
+    "Application.MsVoyageApplication.executor": "Run",
+    "Maven.ApiGateway [clean].executor": "Run",
+    "Maven.voyage [org.apache.maven.plugins:maven-clean-plugin:3.5.0:clean].executor": "Run",
+    "Maven.voyage [org.apache.maven.plugins:maven-clean-plugin:3.5.0:help].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.ApiGatewayApplication.executor": "Run",
+    "Spring Boot.DiscoveryApplication.executor": "Run",
+    "Spring Boot.MsVoyageApplication 1.executor": "Run",
+    "Spring Boot.MsVoyageApplication 2.executor": "Run",
+    "Spring Boot.MsVoyageApplication.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "aziz-jobboard",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="Z:\pionner\travelguard-4actuariat-Groupe2\Backend\microservices" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="CompoundRunConfigurationType" />
+        <option value="KtorApplicationConfigurationType" />
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MsVoyageApplication">
+    <configuration name="MsVoyageApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.esprit.msvoyage.MsVoyageApplication" />
+      <module name="voyage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.esprit.msvoyage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="services" type="CompoundRunConfigurationType">
+      <toRun name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="DiscoveryApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="MsVoyageApplication" type="SpringBootApplicationConfigurationType" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ApiGateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.esprit.apigateway.ApiGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiscoveryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.esprit.discovery.DiscoveryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiscoveryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Discovery" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.esprit.discovery.DiscoveryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MsVoyageApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="voyage" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.esprit.msvoyage.MsVoyageApplication" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=8100" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.esprit.msvoyage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MsVoyageApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1170b227-0fd7-4e17-a5f6-b1cdb0c169e6" name="Changes" comment="" />
+      <created>1795304622084</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1795304622084</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
