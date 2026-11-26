@@ -356,7 +356,7 @@ Les documents sont disponibles dans le dossier `Documentation/`.
 
 **Projet académique — Architecture Microservices**
 
-Équipe : *[Nom de votre équipe]*
+Équipe : Pioneer
 
 Membres :
 - Raghed Selmi
