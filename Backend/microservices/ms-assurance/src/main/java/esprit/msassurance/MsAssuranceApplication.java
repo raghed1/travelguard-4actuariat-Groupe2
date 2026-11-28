@@ -12,7 +12,7 @@ import io.swagger.v3.oas.annotations.servers.Server;
 
 @OpenAPIDefinition(
         servers = {
-                @Server(url = "http://localhost:8080/api/assurance",
+                @Server(url = "http://localhost:8020/api/assurance",
                         description = "API Gateway - Load Balancer"),
 
                 @Server(url = "http://localhost:8081",
