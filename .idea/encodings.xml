@@ -3,6 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/Backend/api-gateway/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Backend/eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Backend/microservices/ms-assurance/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Backend/microservices/ms-indemnisation/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Backend/microservices/ms-reclamations/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Backend/microservices/ms-voyage/src/main/java" charset="UTF-8" />

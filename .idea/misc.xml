@@ -9,8 +9,9 @@
         <option value="$PROJECT_DIR$/Backend/microservices/ms-indemnisation/pom.xml" />
         <option value="$PROJECT_DIR$/Backend/api-gateway/pom.xml" />
         <option value="$PROJECT_DIR$/Backend/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/Backend/microservices/ms-assurance/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="ms-17" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="temurin-17" project-jdk-type="JavaSDK" />
 </project>
